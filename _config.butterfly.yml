@@ -56,7 +56,7 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/FloatStream || Github
+  # fab fa-github: https://github.com/Ardenet || Github
    fas fa-envelope: mailto:1213193613@qq.com || Email
    fas fa-rss: /atom.xml || rss
 
@@ -683,7 +683,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/FloatStream
+      link: https://github.com/Ardenet
   card_announcement:
     enable: false
     content:

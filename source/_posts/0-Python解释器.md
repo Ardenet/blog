@@ -8,8 +8,6 @@ cover: /images/python.jpg
 date: 2022-04-23 14:46:36
 ---
 
-# Python解释器
-
 - CPython: 官方开发的 `Python` 解释器, 使用 `C语言` 开发
 
 - IPython: 基于 `CPython` 解释器开发的, 在交互方式上有所增强(CPython用 `>>>` 作为提示符, 而IPython用 `In [序号]:` 作为提示符)

@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Float's Blog
-subtitle: "Two people's blog"
+title: Ardenet's Blog
+subtitle: "A people's blog"
 description: 随便写点什么
 keywords:
   - 笔记
   - 技术
-author: aveandar
+author: Ardenet
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://floatstream.vercel.app
+url: http://blog-ardenet.vercel.app
 root: /
 permalink: post/:name/
 permalink_defaults:
@@ -120,10 +120,8 @@ nofollow:
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
-  type: git
-  repo: git@github.com:FloatStream/FloatStream.github.io.git
-  branch: master
+# deploy: 
+#   type: 
 
 #markdown-it
 markdown:

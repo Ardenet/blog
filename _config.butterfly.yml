@@ -472,26 +472,31 @@ google_adsense:
 
 # Verification (站長驗證)
 # --------------------------------------
-
+site_verification:
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-google_site_verification:
+  - name: "google-site-verification"
+    content: "-48S5-2_VrHDa_45JMwO4EXQPsRzFb8sK_HPRrhoRWY"
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
-bing_site_verification:
+  - name: "msvalidate.01"
+    content: "46F80FE09D75FF80322BA704DB52ACF5"
 
-# Baidu Webmaster tools verification setting
-# See: https://ziyuan.baidu.com/site/
-baidu_site_verification:
+# # Baidu Webmaster tools verification setting
+# # See: https://ziyuan.baidu.com/site/
+#   - name: "baidu_site_verification"
+#     content: ""
 
-# 360 Webmaster tools verification setting
-# see http://zhanzhang.so.com/
-qihu_site_verification:
+# # 360 Webmaster tools verification setting
+# # see http://zhanzhang.so.com/
+#   - name: "qihu_site_verification"
+#     content: ""
 
-# Yandex Webmaster tools verification setting
-# see https://webmaster.yandex.com/
-yandex_site_verification:
+# # Yandex Webmaster tools verification setting
+# # see https://webmaster.yandex.com/
+#   - name: "yandex_site_verification"
+#     content: ""
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------

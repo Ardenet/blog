@@ -15,7 +15,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog-ardenet.vercel.app
+url: http://ardenet.netlify.app
 root: /
 permalink: post/:name/
 permalink_defaults:
